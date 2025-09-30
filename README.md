@@ -24,7 +24,7 @@ Este repositorio contiene el backend de una aplicación web para una tienda dedi
 
 ## Tecnologías utilizadas
 
-- Python 3.11+
+- Python 3.12+
 - Django 4.x
 - Django REST Framework
 - SQL Server 2022
